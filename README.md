@@ -2,7 +2,7 @@
 - 👀 I’m interested in making all kind of python programs especially ones including ui/ux  
 - 🌱 I’m currently learning python's libaries, sql  
 - 📫 How to reach me - discord(username='Arielp2#4011')  
-# Why there aren't many updates  
+## Why there aren't many updates  
 there aren't many updates because I'm an high school student,  
 that is packed with a lot of tests and finals all in a few  
 months duration - that requires an insane amout of dedication to school.  
@@ -15,20 +15,20 @@ the other programs didn't get an update in a very
 long time, but many of them are paused in mid development process  
 and will be continued to be worked as soon as possible  
 
-### What the future holds (as of 27/5):  
+# What the future holds (as of 27/5):  
 
-# Personal statement:
+## Personal statement:
 At the end of June, I'll be relieved from all the school finals.  
 I have many upcoming projects in my personal life like being better at Psychical health  
 and also to be more socially compatible.  
 But one of my biggest planned projects - "EgonX" or whatever I'll call it  
 will be similar to the "new year (Egon) update" - it's only planned as right now so don't expect it too-much  
 
-# How it will be:  
+## How it will be:  
 In short, because most programs are close to their highest potential it won't be too drastic of an update  
 however, because I have more time to research, you can expect to have so pretty good features and be more polished.  
 
-# Additionally, the less main programs will probably get updates as well:  
+## Additionally, the less main programs will probably get updates as well:  
 1. Minecraft clone  
 
 # Programs Ideas/prototypes that are possible to come to life:  
