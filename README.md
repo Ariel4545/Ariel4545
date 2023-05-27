@@ -31,7 +31,7 @@ however, because I have more time to research, you can expect to have so pretty 
 ## Additionally, the less main programs will probably get updates as well:  
 1. Minecraft clone  
 
-# Programs Ideas/prototypes that are possible to come to life:  
+## Programs Ideas/prototypes that are possible to come to life:  
 1. Image Editor  
 2. Screen recorder  
 3. Auto clicker 
