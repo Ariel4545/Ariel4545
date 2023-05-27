@@ -15,7 +15,7 @@ the other programs didn't get an update in a very
 long time, but many of them are paused in mid development process  
 and will be continued to be worked as soon as possible  
 
-### What the future holds (as of 27/5):
+### What the future holds (as of 27/5):  
 
 # Personal statement:
 At the end of June, I'll be relieved from all the school finals.  
