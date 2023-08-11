@@ -7,27 +7,17 @@ there aren't many updates because I'm an high school student,
 that is packed with a lot of tests and finals all in a few  
 months duration - that requires an insane amout of dedication to school.  
 ## EgonTE state  
-EgonTE v1.11.2 was delayed, the version was intended  
-to release on 15/4 but will be in the current state it will be on 22/4 at best.  
-after this update, new updates might not come in a long period of time.   
+EgonTE will receive its next big update this month! (probably)  
+EgonTE v1.12 will be probably released between the 16th - 30th of august 2023  
+this update will focus more on making the program more "finished" then making completely new additions,  
+this includes a little bit better UI, many fixes, better usage of what the program contains,  
+more settings,  new mechanics, and more...  
+Stay tuned!  
 ## other programs  
 the other programs didn't get an update in a very  
 long time, but many of them are paused in mid development process  
 and will be continued to be worked as soon as possible  
-
-# What the future holds (as of 27/5):  
-
-## Personal statement:
-At the end of June, I'll be relieved from all the school finals.  
-I have many upcoming projects in my personal life like being better at Psychical health  
-and also to be more socially compatible.  
-But one of my biggest planned projects - "EgonX" or whatever I'll call it  
-will be similar to the "new year (Egon) update" - it's only planned as right now so don't expect it too-much  
-
-## How it will be:  
-In short, because most programs are close to their highest potential it won't be too drastic of an update  
-however, because I have more time to research, you can expect to have so pretty good features and be more polished.  
-
+  
 ## Additionally, the less main programs will probably get updates as well:  
 1. Minecraft clone  
 
