@@ -11,19 +11,17 @@ instead, the plan for now is to make a special/sliced version of the original
 program, the versions will be much lighter, have better UI for their  
 purpose, and sometimes will have small features that will be exsulsive  
 (for now).  
+## EgonIDE
+The next project I’m going to introduce is the Ariel/Egon IDE,  
+it’s initially started as a mini version of the text editor but grew quick  
+To be its own thing, there are many specific tools to create a comfortable programming environment  
+and many irrelevant things that were thrown to not make it a heavy program  
+It will probably be released on 12/1/23  
 ## other programs  
 the other programs didn't get an update in a very  
 long time, but many of them are paused in mid development process  
 and will be continued to be worked as soon as possible  
-  
-## Additionally, the less main programs will probably get updates as well:  
-1. Minecraft clone  
 
-## Programs Ideas/prototypes that are possible to come to life:  
-1. Image Editor  
-2. Screen recorder  
-3. Auto clicker 
-4. Discord bot  
 <!---
 Ariel4545/Ariel4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
