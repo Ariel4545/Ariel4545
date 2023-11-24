@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ariel4545  
 - 👀 I’m interested in making all kind of python programs especially ones including ui/ux  
 - 🌱 I’m currently learning python's libaries, sql  
-- 📫 How to reach me - discord(username='Arielp2#4011')  
+- 📫 How to reach me - discord(username='arielp2')  
 ## EgonTE state  
 The state of the program as of now (24/10/13).  
 is that although I have plans for the next update (1.12.2)  
