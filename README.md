@@ -2,25 +2,23 @@
 - 👀 I’m interested in making all kind of python programs especially ones including ui/ux  
 - 🌱 I’m currently learning python's libaries, sql  
 - 📫 How to reach me - discord(username='arielp2')  
-## EgonTE state  
-The state of the program as of now (24/10/13).  
-is that although I have plans for the next update (1.12.2)  
-I will take matters at a slower pace and do different things  
-and not work on the main version for now.  
-instead, the plan for now is to make a special/sliced version of the original  
-program, the versions will be much lighter, have better UI for their  
-purpose, and sometimes will have small features that will be exsulsive  
-(for now).  
-## EgonIDE
-The next project I’m going to introduce is the Ariel/Egon IDE,  
-it’s initially started as a mini version of the text editor but grew quick  
-To be its own thing, there are many specific tools to create a comfortable programming environment  
-and many irrelevant things that were thrown to not make it a heavy program  
-It will probably be released on 12/1/23  
-## other programs  
-the other programs didn't get an update in a very  
-long time, but many of them are paused in mid development process  
-and will be continued to be worked as soon as possible  
+## EgonTE state (28/11/13)  
+The state of the program as of now.  
+That EgonTE got many updates in a short period of time,  
+because of the __support I got__ from sharing the project.  
+and even though most of what I planned is already out,  
+there are some __more things__ you can expect to come sooner or later  
+
+(__In addition__, there is a basic version that will maybe come soon)  
+
+## EgonIDE (28/11/13)  
+The next project I’m going to introduce is the Egon IDE,  
+ It _initially started as a mini version_ of the text editor but grew quickly  
+ to be its own unique thing.  
+there are many specific tools to create a comfortable programming environment.  
+furthermore many irrelevant to the purpose of the project were removed to reduce the size of the program and thus make it lighter.  
+ It will probably be __released on 1/1/24__  
+(_delayed because of school and the EgonTE support_)  
 
 <!---
 Ariel4545/Ariel4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
