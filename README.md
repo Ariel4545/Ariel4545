@@ -3,13 +3,11 @@
 - 🌱 I’m currently learning python's libaries, sql  
 - 📫 How to reach me - discord(username='arielp2')  
 ## EgonTE state (28/11/13)  
-The state of the program as of now.  
-That EgonTE got many updates in a short period of time,  
-because of the __support I got__ from sharing the project.  
-and even though most of what I planned is already out,  
-there are some __more things__ you can expect to come sooner or later  
-
-(__In addition__, there is a basic version that will maybe come soon)  
+EgonTE state 28/12/23
+EgonTE is now almost complete, now there will be a focus on all of the features that were not properly tested because of Venv errors,  
+In addition, there will be improvements to some outdated things like some UI elements.  
+Microsoft store:  
+In spite of the initial expectations I decided that EgonTE is still not ready to be an executable, and in addition, there are still many problems that I will need to solve in the process of converting the project to an executable.  
 
 ## EgonIDE (28/11/13)  
 The next project I’m going to introduce is the Egon IDE,  
