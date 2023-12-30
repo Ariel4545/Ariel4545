@@ -2,7 +2,7 @@
 - 👀 I’m interested in making all kind of python programs especially ones including ui/ux  
 - 🌱 I’m currently learning python's libaries, sql  
 - 📫 How to reach me - discord(username='arielp2')  
-## EgonTE state (28/11/13)  
+## EgonTE state (28/12/13)  
 EgonTE state 28/12/23
 EgonTE is now almost complete, now there will be a focus on all of the features that were not properly tested because of Venv errors,  
 In addition, there will be improvements to some outdated things like some UI elements.  
