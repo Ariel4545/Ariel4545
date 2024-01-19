@@ -8,7 +8,7 @@ EgonTE is now almost complete, now there will be a focus on all of the features 
 In addition, there will be improvements to outdated things like UI elements.  
 Microsoft store:  
 Despite the initial expectations I decided that EgonTE is still not ready to be an executable, and in addition, there are still many problems that I will need to solve in the process of converting the project to an executable.  
-# 1.12.5  
+### 1.12.5  
 the 1.12.5 update will be around the size of all the updates from the 1.12.x series,  
 the update will probably be released between 20-30 January 2024,  
 in addition, the update's best features are UI improvement to outdated tools and improvement to outdated UI elements + fixes and QOL of life features  
