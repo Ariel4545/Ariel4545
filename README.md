@@ -11,7 +11,7 @@ Despite the initial expectations I decided that EgonTE is still not ready to be 
 ### 1.12.5  
 the 1.12.5 update will be around the size of all the updates from the 1.12.x series,  
 the update will probably be released between 20-30 January 2024,  
-in addition, the update's best features are UI improvement to outdated tools and improvement to outdated UI elements + fixes and QOL of life features  
+in addition, the update's best features are UI improvement to outdated tools and improvement to outdated UI elements + fixes and QOL features  
 
 ## EgonIDE (28/11/13)  
 The next project I’m going to introduce is the Egon IDE,  
