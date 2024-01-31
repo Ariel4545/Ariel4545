@@ -1,19 +1,23 @@
 - 👋 Hi, I’m @Ariel4545  
 - 👀 I’m interested in making all kinds of Python programs especially ones including ui/ux  
 - 🌱 I’m currently learning Python's libraries, SQL  
-- 📫 How to reach me - discord(username='arielp2')  
-## EgonTE state (28/12/13)  
+- 📫 How to reach me - discord(username='arielp2')
+
+# general statement (31/1/24)  
+Hi guys, there will probably be less activity from me for now ( I hope it will be for a short period but I am not sure)  
+It became pretty hard to find what to work on, and It became harder for me to be a productive programmer,  
+but I hope I will become my best self again quickly because working on these projects gives me joy,  
+I promise to try as hard as I can to go back to my normal state as fast as possible,  
+until then - thank you I appreciate the support I got recently, hope you have a good time until then (:  
+
+## EgonTE state (28/12/23)  
 EgonTE state 28/12/23
 EgonTE is now almost complete, now there will be a focus on all of the features that were not properly tested because of Venv errors,  
 In addition, there will be improvements to outdated things like UI elements.  
 Microsoft store:  
 Despite the initial expectations I decided that EgonTE is still not ready to be an executable, and in addition, there are still many problems that I will need to solve in the process of converting the project to an executable.  
-### 1.12.5  
-the 1.12.5 update will be around the size of all the updates from the 1.12.x series,  
-the update will probably be released between 20-30 January 2024,  
-in addition, the update's best features are UI improvement to outdated tools and improvement to outdated UI elements + fixes and QOL features  
 
-## EgonIDE (28/11/13)  
+## EgonIDE (28/11/23)  
 The next project I’m going to introduce is the Egon IDE,  
  It _initially started as a mini version_ of the text editor but grew quickly  
  to be its own unique thing.  
