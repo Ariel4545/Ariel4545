@@ -7,7 +7,7 @@
 Hi guys, I'm pretty much back now - but things will still be slow for now: I have many things going on in my personal life like final exams every week and more.  
 but you're probably noticing that my progress is slow even for busy times, that is because I've started working on a skeleton for a prototype game, and only lastly started working on the new update for EgonTE.  
 and after that, I want to update the pandasGUI but I still can't confirm that this will actually happen like I want this to.  
-thank you and hope you doing great (:  
+thank you for the support and hope you are doing great (:  
 
 ## EgonTE state (28/12/23)  
 EgonTE state 28/12/23
