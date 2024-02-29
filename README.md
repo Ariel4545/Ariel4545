@@ -3,12 +3,11 @@
 - 🌱 I’m currently learning Python's libraries, SQL  
 - 📫 How to reach me - discord(username='arielp2')
 
-# general statement (31/1/24)  
-Hi guys, there will probably be less activity from me for now ( I hope it will be for a short period but I am not sure)  
-It became pretty hard to find what to work on, and It became harder for me to be a productive programmer,  
-but I hope I will become my best self again quickly because working on these projects gives me joy,  
-I promise to try as hard as I can to go back to my normal state as fast as possible,  
-until then - thank you I appreciate the support I got recently, hope you have a good time until then (:  
+# general statement (29/2/24)  
+Hi guys, I'm pretty much back now - but things will still be slow for now: I have many things going on in my personal life like final exams every week and more.  
+but you're probably noticing that my progress is slow even for busy times, that is because I've started working on a skeleton for a prototype game, and only lastly started working on the new update for EgonTE.  
+and after that, I want to update the pandasGUI but I still can't confirm that this will actually happen like I want this to.  
+thank you and hope you doing great (:  
 
 ## EgonTE state (28/12/23)  
 EgonTE state 28/12/23
