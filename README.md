@@ -3,27 +3,16 @@
 - 🌱 I’m currently learning Python's libraries, SQL  
 - 📫 How to reach me - discord(username='arielp2')
 
-# general statement (29/2/24)  
-Hi guys, I'm pretty much back now - but things will still be slow for now: I have many things going on in my personal life like final exams every week and more.  
-but you're probably noticing that my progress is slow even for busy times, that is because I've started working on a skeleton for a prototype game, and only lastly started working on the new update for EgonTE.  
-and after that, I want to update the pandasGUI but I still can't confirm that this will actually happen like I want this to.  
-thank you for the support and hope you are doing great (:  
+# General statement (29/6/24)  
+Hello fellas, 
+I've finished high school, I have in the meantime (while I'm still in a transitional period) more means to continue and expand on my projects.  
+So it's exactly what I'm doing - stay tuned!  
 
-## EgonTE state (28/12/23)  
-EgonTE state 28/12/23
-EgonTE is now almost complete, now there will be a focus on all of the features that were not properly tested because of Venv errors,  
-In addition, there will be improvements to outdated things like UI elements.  
-Microsoft store:  
-Despite the initial expectations I decided that EgonTE is still not ready to be an executable, and in addition, there are still many problems that I will need to solve in the process of converting the project to an executable.  
-
-## EgonIDE (28/11/23)  
-The next project I’m going to introduce is the Egon IDE,  
- It _initially started as a mini version_ of the text editor but grew quickly  
- to be its own unique thing.  
-there are many specific tools to create a comfortable programming environment.  
-furthermore many irrelevant to the purpose of the project were removed to reduce the size of the program and thus make it lighter.  
- It will probably be __released on 1/1/24__  
-(_delayed because of school and the EgonTE support_)  
+## EgonTE state (29/6/24)  
+EgonTE's update is being worked on tirelessly lately.  
+Upcoming update's core goal is to improve the code quality and organization.  
+But there will still be some improvements/additions that will appeal to UI-only users.  
+I can't still tell you when the update will come out, its scale, and what to expect - because I'm in the midst of developing it.  
 
 <!---
 Ariel4545/Ariel4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
