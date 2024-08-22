@@ -3,10 +3,13 @@
 - 🌱 I’m currently learning Python's libraries, SQL  
 - 📫 How to reach me - discord(username='arielp2')
 
-# General statement (29/6/24)  
-Hello fellas, 
-I've finished high school, I have in the meantime (while I'm still in a transitional period) more means to continue and expand on my projects.  
-So it's exactly what I'm doing - stay tuned!  
+# General statement (22/8/24)  
+Hey guys, I've become busy sooner than expected, but it doesn't mean that there isn't new stuff coming.  
+
+EgonTE became very complex to work on (even on basic stuff), and I got many burnouts just from opening the project, so until the next update that will come eventually;  
+I started to work on new programs, some of which will be released soon.  
+
+thank you for being so patient.  
 
 ## EgonTE state (29/6/24)  
 EgonTE's update is being worked on tirelessly lately.  
