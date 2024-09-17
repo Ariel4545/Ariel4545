@@ -17,7 +17,7 @@ Upcoming update's core goal is to improve the code quality and organization.
 But there will still be some improvements/additions that will appeal to UI-only users.  
 I can't still tell you when the update will come out, its scale, and what to expect - because I'm in the midst of developing it.  
 
-## Special update 17//9  
+## Special update 17/9  
 I lost most of my free time recently,
 So in an effort to not delay the updates too much further, I will start to round up the updates and try to release them quickly  
 
