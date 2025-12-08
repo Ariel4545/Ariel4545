@@ -3,23 +3,21 @@
 - 🌱 I’m currently learning Python's libraries, SQL  
 - 📫 How to reach me - discord(username='arielp2')
 
-# General statement (22/8/24)  
-Hey guys, I've become busy sooner than expected, but it doesn't mean that there isn't new stuff coming.  
+# General statement (08/12/25)  
+Hello,
+I know that I’ve slowed down in releasing new updates to the projects on my page,  
+But I haven’t stopped working on new stuff, which I’ll be happy to share.  
+I have been working on the usual stuff, which includes the upcoming updates to my open source projects,  
+But I’ve also been experimenting again on legacy projects, and possibly on one commercial project.  
 
-EgonTE became very complex to work on (even on basic stuff), and I got many burnouts just from opening the project, so until the next update that will come eventually;  
-I started to work on new programs, some of which will be released soon.  
+I’m going to push myself into new domains, and I hope we all enjoy it. Thanks.  
+blessings for us, in the upcoming year - wish we all succeed with our goals.  
 
-thank you for being so patient.  
+## EgonTE state  
+......
 
-## EgonTE state (29/6/24)  
-EgonTE's update is being worked on tirelessly lately.  
-Upcoming update's core goal is to improve the code quality and organization.  
-But there will still be some improvements/additions that will appeal to UI-only users.  
-I can't still tell you when the update will come out, its scale, and what to expect - because I'm in the midst of developing it.  
-
-## Special update 17/9  
-I lost most of my free time recently,
-So in an effort to not delay the updates too much further, I will start to round up the updates and try to release them quickly  
+## Special update  
+.......
 
 <!---
 Ariel4545/Ariel4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
