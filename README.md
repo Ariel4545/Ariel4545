@@ -24,8 +24,6 @@ without having a “bottleneck” problem.
 The new goal for “EgonTE” is to release a major version, **EgonTE - v1.14.**  
 The notion behind this new release is to *enhance the primary app’s window and to improve and expand IDE-related features.*  
 
-## Special update  
-I've made many inaccuracies in the content of the recent commits across various projects, so the most reliable source of documentation is the releases' patch notes.
 <!---
 Ariel4545/Ariel4545 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
